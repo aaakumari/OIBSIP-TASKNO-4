@@ -16,9 +16,13 @@ This is a login authentication system built to secure access to a web applicatio
 ## Technologies Used
 - **Frontend**: [HTML/CSS/JavaScript]: Frontend development.
 
+  ## Installation  
+1. Clone the repository: `git clone https://github.com/aaakumari/calculator.git`
+2. Open `index.html` in your web browser.
+
 ## Usage
 1. Open the application in your web browser.
 2. Register a new account with a unique username and password.
 3. Log in with your registered credentials.
 4. Access the protected resources or functionalities provided by the application.
-5. Optionally, use password recovery mechanisms if you forget your password
+   
