@@ -26,3 +26,8 @@ This is a login authentication system built to secure access to a web applicatio
 3. Log in with your registered credentials.
 4. Access the protected resources or functionalities provided by the application.
    
+## Screenshot
+![SIGN UP](https://github.com/aaakumari/OIBSIP-TASKNO-4/assets/170171540/815add51-c76a-4550-83f6-b31e6d4e3718)
+![SIGN IN](https://github.com/aaakumari/OIBSIP-TASKNO-4/assets/170171540/cc6f9abd-7727-4dab-83bd-fd8b57c83e9e)
+
+
